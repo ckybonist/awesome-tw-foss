@@ -41,7 +41,20 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 
 
 ## Plugin/Addon
-* [為什麼你們就是不能加個空格呢？](https://github.com/vinta/paranoid-auto-spacing) - 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白。（攤手）沒辦法，處女座都有強迫症。
+* [為什麼你們就是不能加個空格呢？](https://github.com/vinta/pangu.js) - 自動在網頁中所有的中文和半形的英文、數字、符號之間插入空白。（攤手）沒辦法，處女座都有強迫症。
+  - [pangu.dart](https://github.com/SemonCat/pangu.dart) (Dart)
+  - [pangu.go](https://github.com/vinta/pangu) (Go)
+  - [pangu.java](https://github.com/vinta/pangu.java) (Java)
+  - [pangu.js](https://github.com/vinta/pangu.js) (JavaScript)
+  - [pangu.py](https://github.com/vinta/pangu.py) (Python)
+  - [pangu.space](https://github.com/vinta/pangu.space) (Web API)
+  - [pangu.clj](https://github.com/coldnew/pangu.clj) (Clojure)
+  - [pangu.ex](https://github.com/cataska/pangu.ex) (Elixir)
+  - [pangu.objective-c](https://github.com/Cee/pangu.objective-c) (Objective-C)
+  - [pangu.php](https://github.com/Kunr/pangu.php) (PHP)
+  - [pangu.rb](https://github.com/dlackty/pangu.rb) (Ruby)
+  - [pangu.rs](https://github.com/airt/pangu.rs) (Rust)
+  - [pangu.swift](https://github.com/X140Yu/pangu.Swift) (Swift)
 * [Html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax.
 * [求職小幫手](https://github.com/ronnywang/jobhelper) - 求職小幫手 Google Chrome Extension.
 * [新聞小幫手](https://github.com/g0v/newshelper-extension) - 協助您判別含有誤導資訊的新聞。
