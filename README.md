@@ -1,4 +1,4 @@
-# Awesome Taiwan Free/Open source software projects
+# Awesome Taiwan Free/Open Source Software Projects
 
 A curated list of awesome Free/Open Source Software projects started in Taiwan or by Taiwanese people.
 
