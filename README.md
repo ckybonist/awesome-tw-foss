@@ -29,6 +29,7 @@ A curated list of awesome Free/Open Source Software projects started in Taiwan o
 * [萌典](https://github.com/audreyt/moedict-webkit) - 這是 http://moedict.tw/ 線上及離線查詢 App 的源碼庫。
 * [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework / static site generator.
 * [Open WebMail](http://openwebmail.org/) - A webmail system designed to manage very large mail folder files in a memory efficient way.
+* [TJDIct](https://chrome.google.com/webstore/detail/tjdict-%E7%B7%9A%E4%B8%8A%E5%AD%97%E5%85%B8/caafmojgjlbflohillejdmnghkpcjjpp?hl=zh-TW) - 匯集不同字典網站的英漢字典 chrome extension
 
 ## Desktop Application
 
